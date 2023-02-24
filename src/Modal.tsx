@@ -29,10 +29,10 @@ export default observer(function Modal() {
                 <div className={s.bottom}>
                     <div>
                         As a reminder, the benefits of holding publicly-sold pawns until maturity are:<br />
-                        <p style={{ height: 24 }} />
+                        <p style={{ height: 22 }} />
                         1. Redeemable for 20,000 USDT per each Pawn one year after mint.<br />
                         2. Equal split of 2 million $KYOKO token pool between all current Pawn holders.<br />
-                        <p style={{ height: 24 }} />
+                        <p style={{ height: 22 }} />
                         Since Pawns are freely transferable/saleable on the secondary market, we need to verify each Pawn’s token ID and current holder. Once you connect your wallet, this page will automatically determine whether you have an eligible Pawn in your wallet. All eligible Pawn holders will receive their 20k USDT repayment and share of $KYOKO token rewards upon claiming on this page.
                     </div>
                     <div className={s.bottomWrap}>
