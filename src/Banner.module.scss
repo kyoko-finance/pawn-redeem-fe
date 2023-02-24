@@ -1,0 +1,34 @@
+.wrap {
+    width: 100%;
+    height: 80px;
+    padding: 0 40px;
+    background: rgba(10, 2, 42, 0.1);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.rightWrap {
+    display: flex;
+    align-items: center;
+}
+
+.walletAddr {
+    height: 30px;
+    width: 100px;
+    margin-left: 21px;
+    border-radius: 68px;
+
+    font-size: 12px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-clip: padding-box,border-box;
+    background-image: linear-gradient(0deg, #0a022a, #0a022a),radial-gradient(circle at left top, #FF00DB, #0088FF);
+    background-origin: border-box;
+    border: 1px solid transparent;
+}

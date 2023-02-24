@@ -1,0 +1,10 @@
+:root {
+    --main-bg: #0b022a;
+    --main-pink: #fb02dc;
+    --main-blue: #087df2;
+    --text-active-color: #fff;
+    --text-normal-color: rgba(255, 255, 255, .7);
+    --main-disable: #aaa;
+    --main-warn: #FF00DB;
+    --border-blue: #38e3d6;
+}
