@@ -23,7 +23,7 @@ export default observer(function Modal() {
                         Claim Your Pawn Rewards TODAY!
                     </p>
                     <p className={s.desc}>
-                    Pawn holders, we appreciate you. You supported us over the past year and your rewards are here!
+                        Pawn holders, we really appreciate your support over the past year and your rewards are here!
                     </p>
                 </div>
                 <div className={s.bottom}>
