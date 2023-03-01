@@ -63,7 +63,7 @@ export const createOnBoard = () => {
                 enabled: false,
             },
             mobile: {
-                enabled: true
+                enabled: false
             }
         },
     });
